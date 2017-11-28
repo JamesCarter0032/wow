@@ -23,3 +23,10 @@ h1 {
 #life{
     color:#965a4c
 }
+p {
+    border: 4px dotted;
+    padding: 15px;
+    margin: 10px;
+    width: 25%;
+    height: 20px;
+}
