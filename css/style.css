@@ -2,9 +2,15 @@ h2 {
     color: red;
 }
 
+
+
+
+
 body {
-    background-color: grey;
+    background: linear-gradient(to bottom, #ffffff 0%, #800000 100%););
 }
+
+
 
 img {
     height: 100px;
@@ -15,13 +21,13 @@ p{color:#aa2a2a
 }
 
 h1 {
-    color: BLACK
+    color: red
         
        
     }
  
 #life{
-    color:#965a4c
+    color:#e53e2b
 }
 p {
     border: 4px dotted;
@@ -58,7 +64,6 @@ a:active {
 span{
     font-weight:bold
 }
-
 
 
 
